@@ -13,16 +13,16 @@
           <div class="col">
       <nav class="navbar navbar-expand-lg navbar-light bg-success">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html"><strong>MOVIEGEINIE</strong></a>
+          <a class="navbar-brand" href="index.php"><strong>MOVIEGEINIE</strong></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="gallery.html">GALLERY</a>
-              <a class="nav-link active" aria-current="page" href="book.html">BOOK YOUR TICKET</a>
-              <a class="nav-link active" aria-current="page" href="MOLY.HTML">MOLLYWOOD</a>
-              <a class="nav-link active" aria-current="page" href="latest.html">LATEST MOVIE RELEASE DATE</a>
+              <a class="nav-link active" aria-current="page" href="gallery.php">GALLERY</a>
+              <a class="nav-link active" aria-current="page" href="book.php">BOOK YOUR TICKET</a>
+              <a class="nav-link active" aria-current="page" href="MOLY.php">MOLLYWOOD</a>
+              <a class="nav-link active" aria-current="page" href="latest.php">LATEST MOVIE RELEASE DATE</a>
     
             </div>
           </div>
